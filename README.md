@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 <div align="center">
-  <img src="./desktop-design.jpg" alt="Landing" />
+  <img src="public/design/desktop-design.jpg" alt="Landing" />
 </div>
 
 ## My process
